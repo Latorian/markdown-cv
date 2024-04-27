@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Morgan Anderson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Morgan Anderson
+UX/UI Designer, Digital Designer. *Currently seeking full-time roles.*
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="morg.lat.anderson@gmail.com">morg.lat.anderson@gmail.com</a>
+| <a href="https://morganderson.cargo.site/">morganderson.cargo.site</a>
 </div>
 
 
